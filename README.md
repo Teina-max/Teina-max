@@ -40,7 +40,3 @@ Available for freelance missions on automation, Supabase/n8n/Claude pipelines, a
 📫 [teinateinauri@gmail.com](mailto:teinateinauri@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/teina-automatise)
 
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Teina-max/count.svg" alt="Visitor count">
-</p>
