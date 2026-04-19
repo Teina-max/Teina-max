@@ -29,8 +29,6 @@ Systems that run in production — not prototypes. Custom dashboards, business a
 
 **[gym-membership-saas](https://github.com/Teina-max/gym-membership-saas)** — Membership SaaS with staff + member portals, QR check-in, 44 RLS policies, Playwright E2E.
 
-**[portfolio-n8n](https://portfolio-n8n.vercel.app)** — Portfolio site showcasing n8n + Supabase automation case studies.
-
 ---
 
 ### Looking for a dev?
