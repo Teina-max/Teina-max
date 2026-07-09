@@ -1,6 +1,7 @@
 # Hi, I'm Teina 👋
 
-**Full-Stack TypeScript developer — automation & AI for SMBs.**
+**AI engineer — RAG & agents in production, for SMBs.**
+I turn messy documents and business tools into reliable, sourced AI assistants — not demos that break.
 Based in Toulouse, France · Available for remote freelance missions.
 
 <p>
@@ -13,28 +14,32 @@ Based in Toulouse, France · Available for remote freelance missions.
 
 ### What I build
 
-Systems that run in production — not prototypes. Custom dashboards, business automations, AI integrations, data pipelines. Every project below is deployed, tested, and version-controlled.
+Reliable AI systems that run in production — grounded on your real data, with citations and no hallucination. RAG over document bases, agents that take actions in your workflows, document intelligence (OCR + reconciliation), and the automation around them.
 
-**Stack:** TypeScript · Next.js · React · Supabase (Postgres · RLS · Edge Functions) · n8n · Claude API · Bun
+What sets me apart: I make it reliable when the data is messy and answers must be sourced — strict grounding, citations, reliability evaluation.
+
+**Stack:** TypeScript · Python · Next.js · Supabase (Postgres · pgvector · RLS) · Voyage embeddings · Claude / LLM · n8n · Bun
 
 ---
 
 ### Featured work
 
-**[document-intelligence-platform](https://github.com/Teina-max/document-intelligence-platform)** — OCR → matching → dashboard → email relance pipeline for a French SME. Claude Vision reads 20+ fields per PDF; 34k LOC, 37 SQL migrations, 40 E2E tests.
+**[rag-appels-offres-btp](https://github.com/Teina-max/rag-appels-offres-btp)** — RAG assistant over construction tender documents: grounded Q&A with citations + cross-lot inconsistency detection (what generic tools can't do). pgvector + Voyage + Claude on a real public-procurement corpus, with a measured eval. Building in public.
 
 **[ai-agent-pipeline](https://github.com/Teina-max/ai-agent-pipeline)** — Autonomous 3-agent B2B prospection (Scout → Intel → Writer) with human approval gates. Running 24/7 at ~€75/month.
 
-**[ecommerce-analytics-platform](https://github.com/Teina-max/ecommerce-analytics-platform)** — Real-time multi-store analytics, 6-store retail chain. 14 Edge Functions, 22 analytics actions, 62k+ transactions. In production since October 2025.
+**[document-intelligence-platform](https://github.com/Teina-max/document-intelligence-platform)** — OCR → matching → dashboard → email pipeline for a French SME. Claude Vision reads 20+ fields per PDF; 34k LOC, 37 SQL migrations, 40 E2E tests.
 
-**[gym-membership-saas](https://github.com/Teina-max/gym-membership-saas)** — Membership SaaS with staff + member portals, QR check-in, 44 RLS policies, Playwright E2E.
+**[bi-distributeur-demo-app](https://github.com/Teina-max/bi-distributeur-demo-app)** — Live real-time ERP/BI demo for a premium distributor (anonymized real mission). TanStack Start + Convex.
+
+**[ecommerce-analytics-platform](https://github.com/Teina-max/ecommerce-analytics-platform)** — Real-time multi-store analytics for a 6-store retail chain. 14 Edge Functions, 62k+ transactions. In production since October 2025.
 
 ---
 
-### Looking for a dev?
+### Work with me
 
-Available for freelance missions on automation, Supabase/n8n/Claude pipelines, and internal tools for SMBs (10-50 employees). Remote worldwide, CET timezone.
+Freelance missions on RAG assistants, AI agents, document intelligence, and the automation around them — for SMBs (10–50 employees). Remote, CET timezone.
+
+Three ways to start: **AI documentation audit** (~1 day) · **working prototype on your data** (~1 week) · **production agent** (3–6 weeks).
 
 📫 [teinateinauri@gmail.com](mailto:teinateinauri@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/teina-automatise)
-
----
