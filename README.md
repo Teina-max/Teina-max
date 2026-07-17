@@ -42,4 +42,6 @@ Freelance missions on RAG assistants, AI agents, document intelligence, and the 
 
 Three ways to start: **AI documentation audit** (~1 day) · **working prototype on your data** (~1 week) · **production agent** (3–6 weeks).
 
+Also available as **recurring product support** (2–3 days/week) for teams that need an autonomous builder — selected client work on my [portfolio](https://portfolio-n8n.vercel.app/).
+
 📫 [teinateinauri@gmail.com](mailto:teinateinauri@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/teina-automatise)
